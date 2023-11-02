@@ -126,6 +126,7 @@ def main():
         play_again = input().lower()
 
         if play_again != 'y':
+            print("Thanks for Playing")
             break
 
 
